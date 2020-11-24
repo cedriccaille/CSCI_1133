@@ -1,0 +1,4 @@
+The International Space Station (ISS) is a modular space station (habitable artificial satellite) in low Earth orbit.
+It is a multinational collaborative project between five participating space agencies: NASA (United States), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada).
+Perhaps the most notable ISS experiment is the Alpha Magnetic Spectrometer (AMS), which is intended to detect dark matter and answer other fundamental questions about our universe and is as important as the Hubble Space Telescope according to NASA. 
+Currently docked on station, it could not have been easily accommodated on a free flying satellite platform because of its power and bandwidth needs.

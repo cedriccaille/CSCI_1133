@@ -1,0 +1,7 @@
+def circle(radius):
+  return 3.14159265*radius**2
+
+def square(side):
+    return side*side
+
+print(square(10) - circle(5))
